@@ -1,0 +1,26 @@
+[
+	{
+		"PinNumber" : 0,
+		"IOMode" : 	"Output"
+	},
+	{
+		"PinNumber" : 1,
+		"IOMode" : 	"Input"
+	},
+	{
+		"PinNumber" : 2,
+		"IOMode" : 	"Output"
+	},
+	{
+		"PinNumber" : 3,
+		"IOMode" : 	"Input"
+	},
+	{
+		"PinNumber" : 4,
+		"IOMode" : 	"Input"
+	},
+	{
+		"PinNumber" : 5,
+		"IOMode" : 	"Input"
+	}
+]
